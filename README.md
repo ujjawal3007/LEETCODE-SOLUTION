@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0015-3sum) |
 | [0074-search-a-2d-matrix](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0287-find-the-duplicate-number) |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
