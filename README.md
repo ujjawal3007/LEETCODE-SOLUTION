@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0240-search-a-2d-matrix-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
