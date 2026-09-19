@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0053-maximum-subarray) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/2965-find-missing-and-repeated-values) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0078-subsets) |
@@ -113,5 +117,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
