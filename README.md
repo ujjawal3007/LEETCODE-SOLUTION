@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0037-sudoku-solver) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
