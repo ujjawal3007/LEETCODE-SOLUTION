@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2596-check-knight-tour-configuration](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0240-search-a-2d-matrix-ii) |
+| [2596-check-knight-tour-configuration](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -132,4 +134,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0852-peak-index-in-a-mountain-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/2596-check-knight-tour-configuration) |
+## Simulation
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
