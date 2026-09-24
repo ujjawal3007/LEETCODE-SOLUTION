@@ -7,9 +7,8 @@ public:
        for(int i = 0; i < n; i++) {
         if(freq == 0) {
             count = nums[i];
-            freq = 1;
         }
-        else if(count == nums[i]) {
+        if(count == nums[i]) {
             freq++;
         }
         else{
