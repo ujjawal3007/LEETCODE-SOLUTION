@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0287-find-the-duplicate-number) |
@@ -196,5 +197,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
