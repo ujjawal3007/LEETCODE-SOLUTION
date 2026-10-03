@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0240-search-a-2d-matrix-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
