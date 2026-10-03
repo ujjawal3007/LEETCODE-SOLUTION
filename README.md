@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0085-maximal-rectangle) |
+| [0901-online-stock-span](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0901-online-stock-span) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Prefix Sum
 |  |
@@ -226,8 +227,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0085-maximal-rectangle) |
+| [0901-online-stock-span](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0901-online-stock-span) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0084-largest-rectangle-in-histogram) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
