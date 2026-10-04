@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0496-next-greater-element-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0901-online-stock-span) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Prefix Sum
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0901-online-stock-span) |
 ## Range Minimum/Maximum Query
 |  |
