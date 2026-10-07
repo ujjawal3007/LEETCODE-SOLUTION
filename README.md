@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0240-search-a-2d-matrix-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0443-string-compression) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
