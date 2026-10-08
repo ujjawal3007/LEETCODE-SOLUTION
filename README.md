@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2596-check-knight-tour-configuration](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/2596-check-knight-tour-configuration) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0560-subarray-sum-equals-k) |
 ## Monotonic Stack
 |  |
 | ------- |
