@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0073-set-matrix-zeroes) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0085-maximal-rectangle) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0509-fibonacci-number) |
