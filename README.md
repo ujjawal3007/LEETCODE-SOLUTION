@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0142-linked-list-cycle-ii) |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0239-sliding-window-maximum) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
