@@ -200,11 +200,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2596-check-knight-tour-configuration](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0100-same-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
@@ -314,4 +316,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0128-longest-consecutive-sequence) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
