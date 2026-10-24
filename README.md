@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0700-search-in-a-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -347,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
