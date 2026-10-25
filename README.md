@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0225-implement-stack-using-queues) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
