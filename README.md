@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0560-subarray-sum-equals-k) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2965-find-missing-and-repeated-values](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0443-string-compression) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -212,12 +214,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0662-maximum-width-of-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0100-same-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0662-maximum-width-of-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -359,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -376,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Lifting
