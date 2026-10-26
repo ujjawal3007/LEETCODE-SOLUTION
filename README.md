@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0240-search-a-2d-matrix-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/1382-balance-a-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1382-balance-a-binary-search-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/1382-balance-a-binary-search-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0134-gas-station) |
+| [1382-balance-a-binary-search-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/1382-balance-a-binary-search-tree) |
 ## Quicksort
 |  |
 | ------- |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/1382-balance-a-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -399,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Lifting
 |  |
 | ------- |
