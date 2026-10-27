@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0229-majority-element-ii) |
+| [0295-find-median-from-data-stream](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0295-find-median-from-data-stream) |
 ## Counting
 |  |
 | ------- |
@@ -320,10 +322,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0295-find-median-from-data-stream) |
 ## Monotonic Queue
 |  |
 | ------- |
