@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0295-find-median-from-data-stream) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Counting
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/1382-balance-a-binary-search-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/1382-balance-a-binary-search-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## String Matching
 |  |
 | ------- |
