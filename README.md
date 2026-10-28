@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0496-next-greater-element-i) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0443-string-compression) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0295-find-median-from-data-stream) |
@@ -430,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0124-binary-tree-maximum-path-sum) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
