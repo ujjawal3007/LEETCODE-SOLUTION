@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0240-search-a-2d-matrix-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/1382-balance-a-binary-search-tree) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0295-find-median-from-data-stream) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0295-find-median-from-data-stream) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0237-delete-node-in-a-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -463,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0173-binary-search-tree-iterator) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
