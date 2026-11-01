@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0662-maximum-width-of-binary-tree) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0547-number-of-provinces](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0547-number-of-provinces) |
 ## Tree
 |  |
 | ------- |
@@ -475,4 +478,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0148-sort-list) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
