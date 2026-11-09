@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0073-set-matrix-zeroes) |
+| [0126-word-ladder-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0126-word-ladder-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0141-linked-list-cycle) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0090-subsets-ii) |
+| [0126-word-ladder-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0126-word-ladder-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0126-word-ladder-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0126-word-ladder-ii) |
 | [0207-course-schedule](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0547-number-of-provinces) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0126-word-ladder-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0387-first-unique-character-in-a-string) |
@@ -508,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
