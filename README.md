@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0287-find-the-duplicate-number) |
+| [0403-frog-jump](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0403-frog-jump) |
 | [0485-max-consecutive-ones](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0540-single-element-in-a-sorted-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0213-house-robber-ii) |
+| [0403-frog-jump](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0509-fibonacci-number) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ujjawal3007/LEETCODE-SOLUTION/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Recursion
